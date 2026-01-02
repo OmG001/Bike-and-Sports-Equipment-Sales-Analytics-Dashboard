@@ -1,4 +1,4 @@
-# 📊 Bike & Sports Equipment Sales Analytics Dashboard
+# 🚴🏻‍♂️ Bike & Sports Equipment Sales Analytics Dashboard
 
 An interactive **Sales Analytics Dashboard** built using **Power BI Desktop** to analyze **sales performance, customer behavior, product performance, and returns** across multiple dimensions such as **gender, income group, region, category, and time**.
 The dashboard enables business users to track KPIs, monitor trends, and perform deep drill-down analysis using **interactive visuals, custom tooltips, and detail pages**.
@@ -28,7 +28,7 @@ The key objectives of this project are to:
 * Compare **actual sales vs adjusted sales**
 * Enable deep drill-down analysis using **tooltips and detail pages**
 
-### 📌 Suitable For
+### Suitable For
 
 * Business intelligence portfolios
 * Power BI learning projects
@@ -66,7 +66,7 @@ The project uses multiple tables organized in a **star-schema–like data model*
 * Territories → Sales (One-to-Many)
 * Sales → Returns (One-to-Many)
 
-📌 This design allows analysis from **any business angle**.
+This design allows analysis from **any business angle**.
 
 ---
 
@@ -263,7 +263,7 @@ This project includes **custom Power BI tooltips** to show detailed insights on 
 
 Power BI automatically passes context (product, customer, date, category) to the tooltip.
 
-### 📌 Where Tooltips Are Used
+### Where Tooltips Are Used
 
 * Product name visuals
 * Sales by category charts
